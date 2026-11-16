@@ -1,6 +1,8 @@
 # spaceapp_2026
 Submission for nasa space apps 2026 challenge
 
+A simple machine learning algorithm that ranks how likely it is that a latitude/longitude location can demonstrate one of many possible types of vegetative topologies within the bounding box of California. The idea is that farmers may use the program to query what sorts of vegetative landscapes (environments or crops) are typical to their location, which in turn can inspire what kinds of crops would likely do well in their location. A demonstration of the model in use can be observed by running the python script `application.py`
+
 # INSTALLATION AND USAGE
 - Python 3.11.14 was used to develop and run the application.
 - pkg_list.txt shows all the libraries used to run the local conda environment.
